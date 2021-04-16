@@ -1,0 +1,271 @@
+{
+    "results": {
+        "1": {
+            "result_img": "./images/thor.jpg",
+            "result_text": "Thor"
+        },
+        "2": {
+            "result_img": "./images/spiderman.jpg",
+            "result_text": "Spider-Man"
+        },
+        "3": {
+            "result_img": "./images/ironman.jpg",
+            "result_text": "Iron-Man"
+        },
+        "4": {
+            "result_img": "./images/captainamerica.jpg",
+            "result_text": "Captain America"
+        },
+        "5": {
+            "result_img": "./images/blackpanther.jpg",
+            "result_text": "Black Panther"
+        },
+        "6": {
+            "result_img": "./images/wolverine.jpg",
+            "result_text": "Wolverine"
+        }
+
+
+    },
+    "questions": [
+        {
+            "question_id":"question1",
+            "question":"Pick a Marvel setting",
+            "options":[
+                {
+                    "option_text": "Asgard",
+                    "option_img": "./images/asgard.jpg",
+                    "result": "1"
+                },
+                {
+                    "option_text": "Wakanda",
+                    "option_img": "./images/wakanda.png",
+                    "result": "5"
+                },
+                {
+                    "option_text": "Xandar",
+                    "option_img": "./images/xandar.jpg",
+                    "result": "4"
+                },
+                {
+                    "option_text": "X-mansion",
+                    "option_img": "./images/xmansion.png",
+                    "result": "6"
+                },
+                {
+                    "option_text": "Stark Tower",
+                    "option_img": "./images/starktower.jpg",
+                    "result": "3"
+                },
+                {
+                    "option_text": "NYC",
+                    "option_img": "./images/nyc.jpg",
+                    "result": "2"
+                }
+                
+                
+            ]
+            
+
+        },
+        {
+            "question_id":"question2",
+            "question":"Pick your weapon",
+            "options":[
+                {
+                    "option_text": "Shield",
+                    "option_img": "./images/shield.jpg",
+                    "result": "4"
+                },
+                {
+                    "option_text": "Hammer",
+                    "option_img": "./images/hammer.jpg",
+                    "result": "1"
+                },
+                {
+                    "option_text": "Claws",
+                    "option_img": "./images/claws.jpg",
+                    "result": "5"
+                },
+                {
+                    "option_text": "Suit of Armor",
+                    "option_img": "./images/suitofarmor.jpg",
+                    "result": "3"
+                },
+                {
+                    "option_text": "Magic",
+                    "option_img": "./images/magic.png",
+                    "result": "6"
+                },
+                {
+                    "option_text": "Swords",
+                    "option_img": "./images/swords.jpg",
+                    "result": "2"
+                }
+
+                
+                
+            ]
+            
+
+        },
+        {
+            "question_id":"question3",
+            "question":"Pick a Drink",
+            "options":[
+                {
+                    "option_text": "Beer",
+                    "option_img": "./images/beer.jpg",
+                    "result": "1"
+                },
+                {
+                    "option_text": "Gin and Coke",
+                    "option_img": "./images/ginandcoke.jpg",
+                    "result": "2"
+                },
+                {
+                    "option_text": "Pina Colada",
+                    "option_img": "./images/pina.jpg",
+                    "result": "3"
+                },
+                {
+                    "option_text": "Margaritas",
+                    "option_img": "./images/margarita.jpg",
+                    "result": "4"
+                },
+                {
+                    "option_text": "Royal Manhattan",
+                    "option_img": "./images/royalmanhattan.jpg",
+                    "result": "5"
+                },
+                {
+                    "option_text": "Martini",
+                    "option_img": "./images/martini.jpg",
+                    "result": "6"
+                }
+                
+                
+            ]
+            
+
+        },
+        {
+            "question_id":"question4",
+            "question":"Pick a sport",
+            "options":[
+                {
+                    "option_text": "Soccer",
+                    "option_img": "./images/soccer.jpg",
+                    "result": "5"
+                },
+                {
+                    "option_text": "Rugby",
+                    "option_img": "./images/rugby.jpg",
+                    "result": "6"
+                },
+                {
+                    "option_text": "Basketball",
+                    "option_img": "./images/basketball.jpg",
+                    "result": "4"
+                },
+                {
+                    "option_text": "Field and Track",
+                    "option_img": "./images/fieldandtracks.jpg",
+                    "result": "3"
+                },
+                {
+                    "option_text": "Baseball",
+                    "option_img": "./images/baseball.jpg",
+                    "result": "2"
+                },
+                {
+                    "option_text": "Boxing",
+                    "option_img": "./images/boxing.jpg",
+                    "result": "1"
+                }      
+            ]
+        },
+        {
+            "question_id":"question5",
+            "question":"What's your vibe?",
+            "options":[
+                {
+                    "option_text": "Party animal",
+                    "option_img": "",
+                    "result": "6"
+                },
+                {
+                    "option_text": "Netflix and Chill",
+                    "option_img": "",
+                    "result": "2"
+                },
+                {
+                    "option_text": "Traveler",
+                    "option_img": "",
+                    "result": "3"
+                },
+                {
+                    "option_text": "Foodie",
+                    "option_img": "",
+                    "result": "1"
+                },
+                {
+                    "option_text": "Coffee and Books",
+                    "option_img": "",
+                    "result": "5"
+                },
+                {
+                    "option_text": "Athletic",
+                    "option_img": "",
+                    "result": "4"
+                }
+                
+                
+            ]
+            
+
+        },
+        {
+            "question_id":"question6",
+            "question":"What type of music do you enjoy?",
+            "options":[
+                {
+                    "option_text": "Hip Hop",
+                    "option_img": "",
+                    "result": "5"
+                },
+                {
+                    "option_text": "Pop",
+                    "option_img": "",
+                    "result": "2"
+                },
+                {
+                    "option_text": "Electronic <br> /Dance",
+                    "option_img": "",
+                    "result": "1"
+                },
+                {
+                    "option_text": "Rock",
+                    "option_img": "",
+                    "result": "3"
+                },
+                {
+                    "option_text": "Jazz",
+                    "option_img": "",
+                    "result": "4"
+                },
+                {
+                    "option_text": "R&B",
+                    "option_img": "",
+                    "result": "6"
+                }
+                
+                
+            ]
+            
+
+        }
+        
+    ]
+    
+}
